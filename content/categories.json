@@ -19,6 +19,12 @@
       "href": "/kapsule"
     },
     {
+      "title": "Sirupy",
+      "accentLabel": "Il Doge · Dreamy",
+      "image": "/img/categories/sirup.png",
+      "href": "/sirupy"
+    },
+    {
       "title": "Horká čokoláda",
       "accentLabel": "Il Doge",
       "image": "/img/categories/cokolada.png",
@@ -29,12 +35,6 @@
       "accentLabel": "Fiorenzato · Faber",
       "image": "/img/categories/kavovar.png",
       "href": "/kavovary"
-    },
-    {
-      "title": "Sirupy",
-      "accentLabel": "Il Doge · Dreamy",
-      "image": "/img/categories/sirup.png",
-      "href": "/sirupy"
     }
   ],
   "pages": [

@@ -82,29 +82,31 @@ export default function Hero({ title, accent, subtitle, ctaLabel, ctaHref }: Her
         className="absolute inset-x-0 bottom-0 h-2/3 bg-gradient-to-t from-espresso via-espresso/40 to-transparent"
       />
 
-      <div className="relative z-10 mx-auto w-full max-w-[1600px] px-5 pb-20 pt-40 md:px-10 md:pb-28">
-        <p className="eyebrow hero-rise [animation-delay:0.15s]">Caffè Vero · Košice</p>
-        <h1 className="hero-rise mt-6 max-w-4xl text-[13vw] leading-[1.02] font-semibold tracking-[-0.03em] text-cream [animation-delay:0.25s] sm:text-7xl md:text-8xl lg:text-[7.5rem]">
-          {before}
-          <span className="accent-word">{accent}</span>
-          {after}
-        </h1>
-        <p className="prose-col hero-rise mt-8 text-base font-light text-smoke [animation-delay:0.4s] md:text-lg">
-          {subtitle}
-        </p>
-        <div className="hero-rise mt-10 [animation-delay:0.55s]">
-          <Link
-            href={ctaHref}
-            className="group inline-flex items-center gap-4 border border-bronze/60 px-8 py-4 text-sm font-medium tracking-[0.18em] uppercase text-cream transition-colors duration-500 hover:bg-bronze hover:text-espresso focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-bronze"
-          >
-            {ctaLabel}
-            <span
-              aria-hidden
-              className="inline-block transition-transform duration-500 group-hover:translate-x-1.5"
+      <div className="relative z-10 mx-auto w-full max-w-[1600px] px-5 pb-20 pt-40 md:px-10 md:pb-20 lg:pb-20 lg:flex lg:justify-end">
+        <div className="w-full lg:max-w-[50%] lg:pl-6">
+          <p className="eyebrow hero-rise [animation-delay:0.15s]">Caffè Vero · Košice</p>
+          <h1 className="hero-rise mt-6 max-w-4xl text-[13vw] leading-[1.02] font-semibold tracking-[-0.03em] text-cream [animation-delay:0.25s] sm:text-7xl md:text-8xl lg:text-[7.5rem]">
+            {before}
+            <span className="accent-word">{accent}</span>
+            {after}
+          </h1>
+          <p className="prose-col hero-rise mt-8 text-base font-light text-smoke [animation-delay:0.4s] md:text-lg">
+            {subtitle}
+          </p>
+          <div className="hero-rise mt-10 [animation-delay:0.55s]">
+            <Link
+              href={ctaHref}
+              className="group inline-flex items-center gap-4 border border-bronze/60 px-8 py-4 text-sm font-medium tracking-[0.18em] uppercase text-cream transition-colors duration-500 hover:bg-bronze hover:text-espresso focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-bronze"
             >
-              →
-            </span>
-          </Link>
+              {ctaLabel}
+              <span
+                aria-hidden
+                className="inline-block transition-transform duration-500 group-hover:translate-x-1.5"
+              >
+                →
+              </span>
+            </Link>
+          </div>
         </div>
       </div>
     </section>
