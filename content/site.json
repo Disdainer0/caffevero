@@ -1,0 +1,41 @@
+{
+  "brand": {
+    "name": "Caffè Vero",
+    "legalName": "Tatras Trade s.r.o.",
+    "tagline": "Skúste niečo nové",
+    "philosophy": "Majstrovská rovnováha medzi remeselnou zručnosťou remeselnej tradície a aplikáciou najnovších technológií.",
+    "heroSecondary": {
+      "title": "Takto chutí čaj.",
+      "subtitle": "Jednoducho, perfektný čaj."
+    },
+    "homeHeadline": "Talianska káva a anglický čaj"
+  },
+  "contact": {
+    "company": "Tatras Trade s.r.o.",
+    "street": "Hurbanova 7",
+    "city": "040 01 Košice",
+    "country": "Slovensko",
+    "phones": ["+421 918 124 080", "+421 918 208 452"],
+    "email": "tatras@tatrastrade.com"
+  },
+  "partners": ["Ridgways", "London", "Heath & Heather", "Il Doge", "Dreamy", "Fiorenzato", "Faber"],
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "Káva", "href": "/kava" },
+    { "label": "Kapsule", "href": "/kapsule" },
+    { "label": "Čaj", "href": "/caj" },
+    { "label": "Čokoláda", "href": "/cokolada" },
+    { "label": "Sirupy", "href": "/sirupy" },
+    { "label": "Kávovary", "href": "/kavovary" },
+    { "label": "Niečo o káve", "href": "/o-kave" },
+    { "label": "Kontakt", "href": "/kontakt" }
+  ],
+  "externalSites": {
+    "kavovaryFiorenzato": "http://www.kavovaryfiorenzato.sk"
+  },
+  "testimonials": [],
+  "_notes": {
+    "testimonials": "Old site had only lorem-ipsum placeholder testimonials (Hillary Doe, Michael Doe...). Block hidden until real quotes are provided by the client.",
+    "brokenLegacyLinks": "historia_kavy.html and vero.html were 404 on the old site; their content lives on co_je_kava.html (now /o-kave)."
+  }
+}

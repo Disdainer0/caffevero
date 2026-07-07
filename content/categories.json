@@ -1,0 +1,99 @@
+{
+  "showcase": [
+    {
+      "title": "Zrnková káva",
+      "accentLabel": "Caffè Vero",
+      "image": "/img/categories/zrnkova-kava.png",
+      "href": "/kava?filter=zrnkova"
+    },
+    {
+      "title": "Mletá káva",
+      "accentLabel": "Caffè Vero",
+      "image": "/img/categories/mleta-kava.png",
+      "href": "/kava?filter=mleta"
+    },
+    {
+      "title": "Kávové kapsule",
+      "accentLabel": "FAP · POD · Nespresso",
+      "image": "/img/categories/kapsule.png",
+      "href": "/kapsule"
+    },
+    {
+      "title": "Horká čokoláda",
+      "accentLabel": "Il Doge",
+      "image": "/img/categories/cokolada.png",
+      "href": "/cokolada"
+    },
+    {
+      "title": "Kávovary",
+      "accentLabel": "Fiorenzato · Faber",
+      "image": "/img/categories/kavovar.png",
+      "href": "/kavovary"
+    },
+    {
+      "title": "Sirupy",
+      "accentLabel": "Il Doge · Dreamy",
+      "image": "/img/categories/sirup.png",
+      "href": "/sirupy"
+    }
+  ],
+  "pages": [
+    {
+      "slug": "kava",
+      "navLabel": "Káva",
+      "title": "Ponuka zrnkovej a mletej kávy",
+      "filters": [
+        { "id": "zrnkova", "label": "Zrnková káva" },
+        { "id": "mleta", "label": "Mletá káva" }
+      ]
+    },
+    {
+      "slug": "kapsule",
+      "navLabel": "Kapsule",
+      "title": "Ponuka kapsúl do kávovarov",
+      "filters": [
+        { "id": "fap", "label": "Kapsule FAP" },
+        { "id": "pod", "label": "POD" },
+        { "id": "nesp", "label": "Kapsule Nespresso" }
+      ]
+    },
+    {
+      "slug": "caj",
+      "navLabel": "Čaj",
+      "title": "Ponuka čajov",
+      "filters": [
+        { "id": "ridgways", "label": "Ridgways" },
+        { "id": "london", "label": "London" },
+        { "id": "heath", "label": "Heath & Heather" }
+      ]
+    },
+    {
+      "slug": "cokolada",
+      "navLabel": "Čokoláda",
+      "title": "Ponuka čokolády",
+      "filters": [
+        { "id": "ildoge", "label": "Il Doge" }
+      ]
+    },
+    {
+      "slug": "sirupy",
+      "navLabel": "Sirupy",
+      "title": "Ponuka sirupov",
+      "filters": [
+        { "id": "ildoge", "label": "Il Doge 700 ml" },
+        { "id": "coffe", "label": "Il Doge Coffee Line 700 ml" },
+        { "id": "dreamy", "label": "Dreamy Pulp Fruit 950 ml" }
+      ]
+    },
+    {
+      "slug": "kavovary",
+      "navLabel": "Kávovary",
+      "title": "Profesionálne a domáce kávovary",
+      "filters": [
+        { "id": "fiorenzato", "label": "Kávovary Fiorenzato" },
+        { "id": "faber", "label": "Kávovary Faber" }
+      ],
+      "_note": "Old site also had a 'Mlynce Fiorenzato' filter but zero products were tagged with it — grinders need photos/data from the client."
+    }
+  ]
+}

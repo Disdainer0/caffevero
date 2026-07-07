@@ -1,0 +1,69 @@
+{
+  "slug": "o-kave",
+  "navLabel": "Niečo o káve",
+  "title": "Niečo o káve",
+  "sections": [
+    {
+      "id": "caffe-vero",
+      "heading": "Caffè Vero",
+      "body": "Pozrite si celý proces od výroby po prípravu kávy.",
+      "video": {
+        "provider": "youtube",
+        "id": "0WoKpLPM6X8",
+        "url": "https://www.youtube.com/embed/0WoKpLPM6X8"
+      }
+    },
+    {
+      "id": "co-je-kava",
+      "heading": "Čo je káva",
+      "body": "Káva je jadro bobule podobné čerešni. Jadro je obyčajne rozdelené do dvoch častí, ale môže byť aj vcelku (caracolito, tiež nazývané ako PEARL COFFEE).",
+      "image": "/img/about/coffetree.jpg"
+    },
+    {
+      "id": "druhy-kavy",
+      "heading": "Druhy kávy",
+      "body": "Káva je večne zelená rastlina, GENUS COFEA (približne 80 druhov). Dva hlavné druhy sú: COFEA ARABICA a COFEA CANEFORA (Robusta).",
+      "image": "/img/about/coffetree2.jpg"
+    },
+    {
+      "id": "hlavne-druhy",
+      "heading": "Hlavné druhy kávy",
+      "image": "/img/about/coffetree3.jpg",
+      "varieties": [
+        {
+          "name": "Arabica",
+          "traits": ["Menej horká", "Väčšia aróma", "Jemnejšia chuť"],
+          "stats": { "kofein": "0,8 – 1,5 %", "etericke_oleje": "18 %", "cukor": "8 %" }
+        },
+        {
+          "name": "Robusta",
+          "traits": ["Menej rozšírená", "Silnejšia v chuti", "Viac horká"],
+          "stats": { "kofein": "1,7 – 3,5 %", "etericke_oleje": "8 – 9 %", "cukor": "5 %" }
+        }
+      ]
+    },
+    {
+      "id": "historia-kavy",
+      "heading": "História kávy",
+      "body": "Existuje veľa legiend o pôvode kávy. My sa zmienime iba o podložených historických faktoch.",
+      "timeline": [
+        { "year": "800 p. n. l.", "event": "Archeologické vykopávky v emirátoch potvrdili použitie pražených kávových zŕn na Strednom východe." },
+        { "year": "1400", "event": "Dokumenty arabských učiteľov (Avicenna a Al-Rhazes) hovoria o terapeutickom použití kávy." },
+        { "year": "1592", "event": "Botanik Prosperus Alpinus opisuje rastlinu kávovníka a potvrdzuje jej popularitu v Egypte." },
+        { "year": "1600", "event": "Predstavenie kávy v Európe nielen ako medicíny, ale aj ako bežného nápoja." },
+        { "year": "1645", "event": "Otvorenie prvej kaviarne v Benátkach." },
+        { "year": "1652", "event": "Otvorenie prvej kaviarne v Londýne." },
+        { "year": "1672", "event": "Otvorenie prvej kaviarne v Paríži." },
+        { "year": "1683", "event": "Otvorenie prvej kaviarne vo Viedni." },
+        { "year": "1690", "event": "Otvorenie prvej kaviarne v Hamburgu." },
+        { "year": "1700", "event": "Rastlina kávovníka je exportovaná z arabských krajín do celého sveta." },
+        { "year": "1690–1700", "event": "Holanďania exportujú kávovník z Jemenu do svojich kolónií v Indonézii, Guayane atď." },
+        { "year": "1723", "event": "Francúzi predstavujú kávovník v Antilách." },
+        { "year": "1727", "event": "Portugalci predstavujú kávovník v Brazílii." },
+        { "year": "1730", "event": "Briti predstavujú kávovník na Ceylone, Jamajke, Kube a v Strednej Amerike." },
+        { "year": "1730", "event": "Španieli predstavujú kávu v Kolumbii." },
+        { "year": "Dnešok", "event": "Káva je druhou najexportovanejšou komoditou po rope. Ekonomiky niektorých krajín sú absolútne závislé na tomto exporte." }
+      ]
+    }
+  ]
+}

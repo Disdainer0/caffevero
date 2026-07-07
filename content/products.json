@@ -1,0 +1,1463 @@
+[
+  {
+    "id": "arabica-extra-1kg",
+    "name": "Arabica Extra 1kg",
+    "category": "kava",
+    "subcategory": "zrnkova",
+    "subcategoryLabel": "Zrnková káva",
+    "legacyImage": "https://caffevero.sk/img/kava/1kg_arabica-extra_web_200x340.png",
+    "localImage": "/img/products/kava/1kg_arabica-extra_web_200x340.png"
+  },
+  {
+    "id": "bar-extra-1kg",
+    "name": "Bar Extra 1kg",
+    "category": "kava",
+    "subcategory": "zrnkova",
+    "subcategoryLabel": "Zrnková káva",
+    "legacyImage": "https://caffevero.sk/img/kava/1kg_bar-extra_web_200x340.png",
+    "localImage": "/img/products/kava/1kg_bar-extra_web_200x340.png"
+  },
+  {
+    "id": "selezione-oro-1kg",
+    "name": "Selezione Oro 1kg",
+    "category": "kava",
+    "subcategory": "zrnkova",
+    "subcategoryLabel": "Zrnková káva",
+    "legacyImage": "https://caffevero.sk/img/kava/1kg_selez-oro_web_200x340.png",
+    "localImage": "/img/products/kava/1kg_selez-oro_web_200x340.png"
+  },
+  {
+    "id": "silver-medal-1kg",
+    "name": "Silver Medal 1kg",
+    "category": "kava",
+    "subcategory": "zrnkova",
+    "subcategoryLabel": "Zrnková káva",
+    "legacyImage": "https://caffevero.sk/img/kava/1kg_silverm_web_200x340.png",
+    "localImage": "/img/products/kava/1kg_silverm_web_200x340.png"
+  },
+  {
+    "id": "decaffe-500g",
+    "name": "Decaffe 500g",
+    "category": "kava",
+    "subcategory": "zrnkova",
+    "subcategoryLabel": "Zrnková káva",
+    "legacyImage": "https://caffevero.sk/img/kava/decaffe-550g8_200x340.png",
+    "localImage": "/img/products/kava/decaffe-550g8_200x340.png"
+  },
+  {
+    "id": "crema-bar-blend",
+    "name": "Crema Bar Blend",
+    "category": "kava",
+    "subcategory": "zrnkova",
+    "subcategoryLabel": "Zrnková káva",
+    "legacyImage": "https://caffevero.sk/img/kava/crema-bar-grani_200x340.png",
+    "localImage": "/img/products/kava/crema-bar-grani_200x340.png"
+  },
+  {
+    "id": "espresso-classico-blend",
+    "name": "Espresso Classico Blend",
+    "category": "kava",
+    "subcategory": "zrnkova",
+    "subcategoryLabel": "Zrnková káva",
+    "legacyImage": "https://caffevero.sk/img/kava/espresso-classico_200x340.png",
+    "localImage": "/img/products/kava/espresso-classico_200x340.png"
+  },
+  {
+    "id": "gold-quality-blend",
+    "name": "Gold Quality Blend",
+    "category": "kava",
+    "subcategory": "zrnkova",
+    "subcategoryLabel": "Zrnková káva",
+    "legacyImage": "https://caffevero.sk/img/kava/qualita-oro_200x340.png",
+    "localImage": "/img/products/kava/qualita-oro_200x340.png"
+  },
+  {
+    "id": "arabica-extra-250g",
+    "name": "Arabica Extra 250g",
+    "category": "kava",
+    "subcategory": "mleta",
+    "subcategoryLabel": "Mletá káva",
+    "legacyImage": "https://caffevero.sk/img/kava/arabica-extra-250gr_200x340.png",
+    "localImage": "/img/products/kava/arabica-extra-250gr_200x340.png"
+  },
+  {
+    "id": "selezione-oro-250g",
+    "name": "Selezione Oro 250g",
+    "category": "kava",
+    "subcategory": "mleta",
+    "subcategoryLabel": "Mletá káva",
+    "legacyImage": "https://caffevero.sk/img/kava/selezione-oro-250gr_200x340.png",
+    "localImage": "/img/products/kava/selezione-oro-250gr_200x340.png"
+  },
+  {
+    "id": "miscella-oro-250g",
+    "name": "Miscella Oro 250g",
+    "category": "kava",
+    "subcategory": "mleta",
+    "subcategoryLabel": "Mletá káva",
+    "legacyImage": "https://caffevero.sk/img/kava/lattina-moka-macinato-oro56_200x340.png",
+    "localImage": "/img/products/kava/lattina-moka-macinato-oro56_200x340.png"
+  },
+  {
+    "id": "miscella-rossa-250g",
+    "name": "Miscella Rossa 250g",
+    "category": "kava",
+    "subcategory": "mleta",
+    "subcategoryLabel": "Mletá káva",
+    "legacyImage": "https://caffevero.sk/img/kava/lattina-moka-macinato-rosso9_200x340.png",
+    "localImage": "/img/products/kava/lattina-moka-macinato-rosso9_200x340.png"
+  },
+  {
+    "id": "dolce-gold",
+    "name": "Dolce Gold",
+    "category": "kapsule",
+    "subcategory": "fap",
+    "subcategoryLabel": "Kapsule FAP",
+    "legacyImage": "https://caffevero.sk/img/kava/qualita-oro2_200x340.png",
+    "localImage": "/img/products/kava/qualita-oro2_200x340.png"
+  },
+  {
+    "id": "crema-bar",
+    "name": "Crema Bar",
+    "category": "kapsule",
+    "subcategory": "fap",
+    "subcategoryLabel": "Kapsule FAP",
+    "legacyImage": "https://caffevero.sk/img/kava/crema-bar6_200x340.png",
+    "localImage": "/img/products/kava/crema-bar6_200x340.png"
+  },
+  {
+    "id": "decaffe",
+    "name": "Decaffe",
+    "category": "kapsule",
+    "subcategory": "fap",
+    "subcategoryLabel": "Kapsule FAP",
+    "legacyImage": "https://caffevero.sk/img/kava/decaffe9_200x340.png",
+    "localImage": "/img/products/kava/decaffe9_200x340.png"
+  },
+  {
+    "id": "ginseng-and-coffee",
+    "name": "Ginseng and coffee",
+    "category": "kapsule",
+    "subcategory": "fap",
+    "subcategoryLabel": "Kapsule FAP",
+    "legacyImage": "https://caffevero.sk/img/kava/ginseng1_200x340.png",
+    "localImage": "/img/products/kava/ginseng1_200x340.png"
+  },
+  {
+    "id": "jacmenne-espresso",
+    "name": "Jačmenné espresso",
+    "category": "kapsule",
+    "subcategory": "fap",
+    "subcategoryLabel": "Kapsule FAP",
+    "legacyImage": "https://caffevero.sk/img/kava/orzo7_200x340.png",
+    "localImage": "/img/products/kava/orzo7_200x340.png"
+  },
+  {
+    "id": "caj-s-citronom",
+    "name": "Čaj s citrónom",
+    "category": "kapsule",
+    "subcategory": "fap",
+    "subcategoryLabel": "Kapsule FAP",
+    "legacyImage": "https://caffevero.sk/img/kava/the-verde2_200x340.png",
+    "localImage": "/img/products/kava/the-verde2_200x340.png"
+  },
+  {
+    "id": "gold-blend",
+    "name": "Gold Blend",
+    "category": "kapsule",
+    "subcategory": "pod",
+    "subcategoryLabel": "POD",
+    "legacyImage": "https://caffevero.sk/img/kava/cialda-bar-gold3_200x340.png",
+    "localImage": "/img/products/kava/cialda-bar-gold3_200x340.png"
+  },
+  {
+    "id": "red-blend",
+    "name": "Red Blend",
+    "category": "kapsule",
+    "subcategory": "pod",
+    "subcategoryLabel": "POD",
+    "legacyImage": "https://caffevero.sk/img/kava/cialda-miscela-red1_200x340.png",
+    "localImage": "/img/products/kava/cialda-miscela-red1_200x340.png"
+  },
+  {
+    "id": "decaffe-2",
+    "name": "Decaffe",
+    "category": "kapsule",
+    "subcategory": "pod",
+    "subcategoryLabel": "POD",
+    "legacyImage": "https://caffevero.sk/img/kava/cialda-decaffe3_200x340.png",
+    "localImage": "/img/products/kava/cialda-decaffe3_200x340.png"
+  },
+  {
+    "id": "nes-single-dose-capsule-deca",
+    "name": "nes single-dose capsule DECA",
+    "category": "kapsule",
+    "subcategory": "nesp",
+    "subcategoryLabel": "Kapsule Nespresso",
+    "legacyImage": "https://caffevero.sk/img/kava/ndsc_3028.jpg",
+    "localImage": "/img/products/kava/ndsc_3028.jpg"
+  },
+  {
+    "id": "nes-single-dose-capsule-intenso",
+    "name": "nes single-dose capsule INTENSO",
+    "category": "kapsule",
+    "subcategory": "nesp",
+    "subcategoryLabel": "Kapsule Nespresso",
+    "legacyImage": "https://caffevero.sk/img/kava/ndsc_30229.jpg",
+    "localImage": "/img/products/kava/ndsc_30229.jpg"
+  },
+  {
+    "id": "nes-single-dose-capsule-crema",
+    "name": "nes single-dose capsule CREMA",
+    "category": "kapsule",
+    "subcategory": "nesp",
+    "subcategoryLabel": "Kapsule Nespresso",
+    "legacyImage": "https://caffevero.sk/img/kava/ndsc_3021.jpg",
+    "localImage": "/img/products/kava/ndsc_3021.jpg"
+  },
+  {
+    "id": "nes-single-dose-capsule-arabica",
+    "name": "nes single-dose capsule ARABICA",
+    "category": "kapsule",
+    "subcategory": "nesp",
+    "subcategoryLabel": "Kapsule Nespresso",
+    "legacyImage": "https://caffevero.sk/img/kava/ndsc_3035.jpg",
+    "localImage": "/img/products/kava/ndsc_3035.jpg"
+  },
+  {
+    "id": "ridgways-assam",
+    "name": "Ridgways Assam",
+    "category": "caj",
+    "subcategory": "ridgways",
+    "subcategoryLabel": "Ridgways",
+    "legacyImage": "https://caffevero.sk/img/caj/rw_a.jpg",
+    "localImage": "/img/products/caj/rw_a.jpg"
+  },
+  {
+    "id": "ridgways-english-breakfast",
+    "name": "Ridgways English Breakfast",
+    "category": "caj",
+    "subcategory": "ridgways",
+    "subcategoryLabel": "Ridgways",
+    "legacyImage": "https://caffevero.sk/img/caj/rw_eb.jpg",
+    "localImage": "/img/products/caj/rw_eb.jpg"
+  },
+  {
+    "id": "ridgways-earl-grey",
+    "name": "Ridgways Earl Grey",
+    "category": "caj",
+    "subcategory": "ridgways",
+    "subcategoryLabel": "Ridgways",
+    "legacyImage": "https://caffevero.sk/img/caj/rw_eg.jpg",
+    "localImage": "/img/products/caj/rw_eg.jpg"
+  },
+  {
+    "id": "ridgways-pure-camomile",
+    "name": "Ridgways Pure Camomile",
+    "category": "caj",
+    "subcategory": "ridgways",
+    "subcategoryLabel": "Ridgways",
+    "legacyImage": "https://caffevero.sk/img/caj/rw_pc.jpg",
+    "localImage": "/img/products/caj/rw_pc.jpg"
+  },
+  {
+    "id": "ridgways-pure-green",
+    "name": "Ridgways Pure Green",
+    "category": "caj",
+    "subcategory": "ridgways",
+    "subcategoryLabel": "Ridgways",
+    "legacyImage": "https://caffevero.sk/img/caj/rw_pg.jpg",
+    "localImage": "/img/products/caj/rw_pg.jpg"
+  },
+  {
+    "id": "ridgways-pure-peppermint",
+    "name": "Ridgways Pure Peppermint",
+    "category": "caj",
+    "subcategory": "ridgways",
+    "subcategoryLabel": "Ridgways",
+    "legacyImage": "https://caffevero.sk/img/caj/rw_pp.jpg",
+    "localImage": "/img/products/caj/rw_pp.jpg"
+  },
+  {
+    "id": "london-peach-paradise",
+    "name": "London Peach Paradise",
+    "category": "caj",
+    "subcategory": "london",
+    "subcategoryLabel": "London",
+    "legacyImage": "https://caffevero.sk/img/caj/ln_br.jpg",
+    "localImage": "/img/products/caj/ln_br.jpg"
+  },
+  {
+    "id": "london-lemon-and-lime-zest",
+    "name": "London Lemon & Lime Zest",
+    "category": "caj",
+    "subcategory": "london",
+    "subcategoryLabel": "London",
+    "legacyImage": "https://caffevero.sk/img/caj/ln_cl.jpg",
+    "localImage": "/img/products/caj/ln_cl.jpg"
+  },
+  {
+    "id": "london-strawberry-and-lime",
+    "name": "London Strawberry & Lime",
+    "category": "caj",
+    "subcategory": "london",
+    "subcategoryLabel": "London",
+    "legacyImage": "https://caffevero.sk/img/caj/ln_jl.jpg",
+    "localImage": "/img/products/caj/ln_jl.jpg"
+  },
+  {
+    "id": "london-strawberry-and-vanilla-fool",
+    "name": "London Strawberry & Vanilla Fool",
+    "category": "caj",
+    "subcategory": "london",
+    "subcategoryLabel": "London",
+    "legacyImage": "https://caffevero.sk/img/caj/ln_jv.jpg",
+    "localImage": "/img/products/caj/ln_jv.jpg"
+  },
+  {
+    "id": "london-raspberry-randezvous",
+    "name": "London Raspberry Randezvous",
+    "category": "caj",
+    "subcategory": "london",
+    "subcategoryLabel": "London",
+    "legacyImage": "https://caffevero.sk/img/caj/ln_ms.jpg",
+    "localImage": "/img/products/caj/ln_ms.jpg"
+  },
+  {
+    "id": "london-tropical-fruits",
+    "name": "London Tropical Fruits",
+    "category": "caj",
+    "subcategory": "london",
+    "subcategoryLabel": "London",
+    "legacyImage": "https://caffevero.sk/img/caj/ln_to.jpg",
+    "localImage": "/img/products/caj/ln_to.jpg"
+  },
+  {
+    "id": "london-green-tea-and-mango",
+    "name": "London Green Tea & Mango",
+    "category": "caj",
+    "subcategory": "london",
+    "subcategoryLabel": "London",
+    "legacyImage": "https://caffevero.sk/img/caj/ln_zm.jpg",
+    "localImage": "/img/products/caj/ln_zm.jpg"
+  },
+  {
+    "id": "london-green-tea-and-cherry",
+    "name": "London Green Tea & Cherry",
+    "category": "caj",
+    "subcategory": "london",
+    "subcategoryLabel": "London",
+    "legacyImage": "https://caffevero.sk/img/caj/ln_zv.jpg",
+    "localImage": "/img/products/caj/ln_zv.jpg"
+  },
+  {
+    "id": "heath-and-heather-organic-echinacea",
+    "name": "Heath & Heather Organic Echinacea",
+    "category": "caj",
+    "subcategory": "heath",
+    "subcategoryLabel": "Heath & Heather",
+    "legacyImage": "https://caffevero.sk/img/caj/hh_e.jpg",
+    "localImage": "/img/products/caj/hh_e.jpg"
+  },
+  {
+    "id": "heath-and-heather-organic-camomile",
+    "name": "Heath & Heather Organic Camomile",
+    "category": "caj",
+    "subcategory": "heath",
+    "subcategoryLabel": "Heath & Heather",
+    "legacyImage": "https://caffevero.sk/img/caj/hh_h.jpg",
+    "localImage": "/img/products/caj/hh_h.jpg"
+  },
+  {
+    "id": "heath-and-heather-organic-nettle",
+    "name": "Heath & Heather Organic Nettle",
+    "category": "caj",
+    "subcategory": "heath",
+    "subcategoryLabel": "Heath & Heather",
+    "legacyImage": "https://caffevero.sk/img/caj/hh_z.jpg",
+    "localImage": "/img/products/caj/hh_z.jpg"
+  },
+  {
+    "id": "heath-and-heather-organic-green-tea-with-coconut",
+    "name": "Heath & Heather Organic Green Tea with Coconut",
+    "category": "caj",
+    "subcategory": "heath",
+    "subcategoryLabel": "Heath & Heather",
+    "legacyImage": "https://caffevero.sk/img/caj/hh_zk.jpg",
+    "localImage": "/img/products/caj/hh_zk.jpg"
+  },
+  {
+    "id": "heath-and-heather-organic-green-tea-and-moroccan-mint",
+    "name": "Heath & Heather Organic Green Tea & Moroccan Mint",
+    "category": "caj",
+    "subcategory": "heath",
+    "subcategoryLabel": "Heath & Heather",
+    "legacyImage": "https://caffevero.sk/img/caj/hh_zm.jpg",
+    "localImage": "/img/products/caj/hh_zm.jpg"
+  },
+  {
+    "id": "single-dose-instant-powder-for-a-thick-cocoa-drink-25g",
+    "name": "single-dose instant powder for a thick cocoa drink 25g",
+    "category": "cokolada",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge",
+    "legacyImage": "https://caffevero.sk/img/kava/cioccolata-busta_200x340.png",
+    "localImage": "/img/products/kava/cioccolata-busta_200x340.png"
+  },
+  {
+    "id": "instant-powder-for-a-dense-cocoa-drink-1000g",
+    "name": "instant powder for a dense cocoa drink 1000g",
+    "category": "cokolada",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge",
+    "legacyImage": "https://caffevero.sk/img/kava/cioko-vero-bar-barattolo22_200x340.png",
+    "localImage": "/img/products/kava/cioko-vero-bar-barattolo22_200x340.png"
+  },
+  {
+    "id": "il-doge-maple",
+    "name": "Il Doge Maple",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Acero_Maple.jpg",
+    "localImage": "/img/products/sirup/Doge_Acero_Maple.jpg"
+  },
+  {
+    "id": "il-doge-amaretto",
+    "name": "Il Doge Amaretto",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Amaretto.jpg",
+    "localImage": "/img/products/sirup/Doge_Amaretto.jpg"
+  },
+  {
+    "id": "il-doge-pineapple-and-coconut",
+    "name": "Il Doge Pineapple & Coconut",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Ananas%20e%20Cocco_Pineapple%20&%20Coconut.jpg",
+    "localImage": "/img/products/sirup/Doge_Ananas e Cocco_Pineapple & Coconut.jpg"
+  },
+  {
+    "id": "il-doge-pineapple",
+    "name": "Il Doge Pineapple",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Ananas_Pineapple.jpg",
+    "localImage": "/img/products/sirup/Doge_Ananas_Pineapple.jpg"
+  },
+  {
+    "id": "il-doge-watermelon",
+    "name": "Il Doge Watermelon",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Anguria_Watermelon.jpg",
+    "localImage": "/img/products/sirup/Doge_Anguria_Watermelon.jpg"
+  },
+  {
+    "id": "il-doge-orange",
+    "name": "Il Doge Orange",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Arancia_Orange.jpg",
+    "localImage": "/img/products/sirup/Doge_Arancia_Orange.jpg"
+  },
+  {
+    "id": "il-doge-chocolate-cookie",
+    "name": "Il Doge Chocolate Cookie",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Biscotto%20al%20cioccolato_Chocolate%20Cookie.jpg",
+    "localImage": "/img/products/sirup/Doge_Biscotto al cioccolato_Chocolate Cookie.jpg"
+  },
+  {
+    "id": "il-doge-blue-curacao",
+    "name": "Il Doge Blue Curacao",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Blue%20Curacao.jpg",
+    "localImage": "/img/products/sirup/Doge_Blue Curacao.jpg"
+  },
+  {
+    "id": "il-doge-bubble-gum",
+    "name": "Il Doge Bubble Gum",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Bubble%20Gum.jpg",
+    "localImage": "/img/products/sirup/Doge_Bubble Gum.jpg"
+  },
+  {
+    "id": "il-doge-coffee",
+    "name": "Il Doge Coffee",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Caffe_Coffee.jpg",
+    "localImage": "/img/products/sirup/Doge_Caffe_Coffee.jpg"
+  },
+  {
+    "id": "il-doge-cinnamon",
+    "name": "Il Doge Cinnamon",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Cannella_Cinnamon.jpg",
+    "localImage": "/img/products/sirup/Doge_Cannella_Cinnamon.jpg"
+  },
+  {
+    "id": "il-doge-caramel",
+    "name": "Il Doge Caramel",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Caramello_Caramel.jpg",
+    "localImage": "/img/products/sirup/Doge_Caramello_Caramel.jpg"
+  },
+  {
+    "id": "il-doge-cucumber",
+    "name": "Il Doge Cucumber",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Cetriolo_Cucumber.jpg",
+    "localImage": "/img/products/sirup/Doge_Cetriolo_Cucumber.jpg"
+  },
+  {
+    "id": "il-doge-white-chocolate",
+    "name": "Il Doge White Chocolate",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Cioccolato%20bianco_White%20Chocolate.jpg",
+    "localImage": "/img/products/sirup/Doge_Cioccolato bianco_White Chocolate.jpg"
+  },
+  {
+    "id": "il-doge-chocolate",
+    "name": "Il Doge Chocolate",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Cioccolato_Chocolate.jpg",
+    "localImage": "/img/products/sirup/Doge_Cioccolato_Chocolate.jpg"
+  },
+  {
+    "id": "il-doge-coconut",
+    "name": "Il Doge Coconut",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Cocco_Coconut.jpg",
+    "localImage": "/img/products/sirup/Doge_Cocco_Coconut.jpg"
+  },
+  {
+    "id": "il-doge-cranberry",
+    "name": "Il Doge Cranberry",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Cranberry.jpg",
+    "localImage": "/img/products/sirup/Doge_Cranberry.jpg"
+  },
+  {
+    "id": "il-doge-elderflower",
+    "name": "Il Doge Elderflower",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Fiori%20di%20Sambuco_Elderflower.jpg",
+    "localImage": "/img/products/sirup/Doge_Fiori di Sambuco_Elderflower.jpg"
+  },
+  {
+    "id": "il-doge-strawberry",
+    "name": "Il Doge Strawberry",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Fragola_Strawberry.jpg",
+    "localImage": "/img/products/sirup/Doge_Fragola_Strawberry.jpg"
+  },
+  {
+    "id": "il-doge-forest-fruits",
+    "name": "Il Doge Forest Fruits",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Frutti%20di%20Bosco_Forest%20Fruits.jpg",
+    "localImage": "/img/products/sirup/Doge_Frutti di Bosco_Forest Fruits.jpg"
+  },
+  {
+    "id": "il-doge-gingerbread",
+    "name": "Il Doge Gingerbread",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Gingerbread.jpg",
+    "localImage": "/img/products/sirup/Doge_Gingerbread.jpg"
+  },
+  {
+    "id": "il-doge-granadine",
+    "name": "Il Doge Granadine",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Granatina_Granadine.jpg",
+    "localImage": "/img/products/sirup/Doge_Granatina_Granadine.jpg"
+  },
+  {
+    "id": "il-doge-kiwi",
+    "name": "Il Doge Kiwi",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Kiwi.jpg",
+    "localImage": "/img/products/sirup/Doge_Kiwi.jpg"
+  },
+  {
+    "id": "il-doge-raspberry",
+    "name": "Il Doge Raspberry",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Lampone_Raspberry.jpg",
+    "localImage": "/img/products/sirup/Doge_Lampone_Raspberry.jpg"
+  },
+  {
+    "id": "il-doge-lavender",
+    "name": "Il Doge Lavender",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Lavanda_Lavender.jpg",
+    "localImage": "/img/products/sirup/Doge_Lavanda_Lavender.jpg"
+  },
+  {
+    "id": "il-doge-lime",
+    "name": "Il Doge Lime",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Lime.jpg",
+    "localImage": "/img/products/sirup/Doge_Lime.jpg"
+  },
+  {
+    "id": "il-doge-lemon",
+    "name": "Il Doge Lemon",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Limone_Lemon.jpg",
+    "localImage": "/img/products/sirup/Doge_Limone_Lemon.jpg"
+  },
+  {
+    "id": "il-doge-almond",
+    "name": "Il Doge Almond",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Mandorla_Almond.jpg",
+    "localImage": "/img/products/sirup/Doge_Mandorla_Almond.jpg"
+  },
+  {
+    "id": "il-doge-mango",
+    "name": "Il Doge Mango",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Mango.jpg",
+    "localImage": "/img/products/sirup/Doge_Mango.jpg"
+  },
+  {
+    "id": "il-doge-green-apple",
+    "name": "Il Doge Green Apple",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Mela%20verde_Green%20Apple.jpg",
+    "localImage": "/img/products/sirup/Doge_Mela verde_Green Apple.jpg"
+  },
+  {
+    "id": "il-doge-melon",
+    "name": "Il Doge Melon",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Melone_Melon.jpg",
+    "localImage": "/img/products/sirup/Doge_Melone_Melon.jpg"
+  },
+  {
+    "id": "il-doge-mint-and-lime",
+    "name": "Il Doge Mint & Lime",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Menta%20e%20lime_Mint%20&%20Lime.jpg",
+    "localImage": "/img/products/sirup/Doge_Menta e lime_Mint & Lime.jpg"
+  },
+  {
+    "id": "il-doge-mint",
+    "name": "Il Doge Mint",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Menta_Mint.jpg",
+    "localImage": "/img/products/sirup/Doge_Menta_Mint.jpg"
+  },
+  {
+    "id": "il-doge-blueberry",
+    "name": "Il Doge Blueberry",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Mirtillo_Blueberry.jpg",
+    "localImage": "/img/products/sirup/Doge_Mirtillo_Blueberry.jpg"
+  },
+  {
+    "id": "il-doge-mojito",
+    "name": "Il Doge Mojito",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Mojito.jpg",
+    "localImage": "/img/products/sirup/Doge_Mojito.jpg"
+  },
+  {
+    "id": "il-doge-blackberry",
+    "name": "Il Doge Blackberry",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Mora_Blackberry.jpg",
+    "localImage": "/img/products/sirup/Doge_Mora_Blackberry.jpg"
+  },
+  {
+    "id": "il-doge-hazelnut",
+    "name": "Il Doge Hazelnut",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Nocciola_Hazelnut.jpg",
+    "localImage": "/img/products/sirup/Doge_Nocciola_Hazelnut.jpg"
+  },
+  {
+    "id": "il-doge-passion-fruit",
+    "name": "Il Doge Passion Fruit",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Passion%20Fruit.jpg",
+    "localImage": "/img/products/sirup/Doge_Passion Fruit.jpg"
+  },
+  {
+    "id": "il-doge-peach",
+    "name": "Il Doge Peach",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Pesca_Peach.jpg",
+    "localImage": "/img/products/sirup/Doge_Pesca_Peach.jpg"
+  },
+  {
+    "id": "il-doge-pina-colada",
+    "name": "Il Doge Pina Colada",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Pina%20Colada.jpg",
+    "localImage": "/img/products/sirup/Doge_Pina Colada.jpg"
+  },
+  {
+    "id": "il-doge-pistachio",
+    "name": "Il Doge Pistachio",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Pistacchio_Pistachio.jpg",
+    "localImage": "/img/products/sirup/Doge_Pistacchio_Pistachio.jpg"
+  },
+  {
+    "id": "il-doge-grapefruit",
+    "name": "Il Doge Grapefruit",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Pompelmo_Grapefruit.jpg",
+    "localImage": "/img/products/sirup/Doge_Pompelmo_Grapefruit.jpg"
+  },
+  {
+    "id": "il-doge-cassis",
+    "name": "Il Doge Cassis",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Ribes%20nero_Cassis.jpg",
+    "localImage": "/img/products/sirup/Doge_Ribes nero_Cassis.jpg"
+  },
+  {
+    "id": "il-doge-rose",
+    "name": "Il Doge Rose",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Rosa_Rose.jpg",
+    "localImage": "/img/products/sirup/Doge_Rosa_Rose.jpg"
+  },
+  {
+    "id": "il-doge-lemon-ice-tea",
+    "name": "Il Doge Lemon Ice Tea",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Te%20al%20limone_Lemon%20Ice%20Tea.jpg",
+    "localImage": "/img/products/sirup/Doge_Te al limone_Lemon Ice Tea.jpg"
+  },
+  {
+    "id": "il-doge-peach-ice-tea",
+    "name": "Il Doge Peach Ice Tea",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Te%20alla%20pesca_Peach%20Ice%20Tea.jpg",
+    "localImage": "/img/products/sirup/Doge_Te alla pesca_Peach Ice Tea.jpg"
+  },
+  {
+    "id": "il-doge-ice-tea",
+    "name": "Il Doge Ice Tea",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Te_Ice%20Tea.jpg",
+    "localImage": "/img/products/sirup/Doge_Te_Ice Tea.jpg"
+  },
+  {
+    "id": "il-doge-triple-sec",
+    "name": "Il Doge Triple Sec",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Triple%20Sec.jpg",
+    "localImage": "/img/products/sirup/Doge_Triple Sec.jpg"
+  },
+  {
+    "id": "il-doge-vanilla",
+    "name": "Il Doge Vanilla",
+    "category": "sirupy",
+    "subcategory": "coffe",
+    "subcategoryLabel": "Il Doge Coffee Line 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Vaniglia_Vanilla.jpg",
+    "localImage": "/img/products/sirup/Doge_Vaniglia_Vanilla.jpg"
+  },
+  {
+    "id": "il-doge-violet",
+    "name": "Il Doge Violet",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Violetta_Violet.jpg",
+    "localImage": "/img/products/sirup/Doge_Violetta_Violet.jpg"
+  },
+  {
+    "id": "il-doge-ginger",
+    "name": "Il Doge Ginger",
+    "category": "sirupy",
+    "subcategory": "ildoge",
+    "subcategoryLabel": "Il Doge 700 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/Doge_Zenzero_Ginger.jpg",
+    "localImage": "/img/products/sirup/Doge_Zenzero_Ginger.jpg"
+  },
+  {
+    "id": "dreamy-pineapple",
+    "name": "Dreamy Pineapple",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Ananas_Pineapple.jpg",
+    "localImage": "/img/products/sirup/dreamy Ananas_Pineapple.jpg"
+  },
+  {
+    "id": "dreamy-watermelon",
+    "name": "Dreamy Watermelon",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Anguria_Watermelon.jpg",
+    "localImage": "/img/products/sirup/dreamy Anguria_Watermelon.jpg"
+  },
+  {
+    "id": "dreamy-blood-orange",
+    "name": "Dreamy Blood Orange",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Arancia%20rossa_Blood%20Orange.jpg",
+    "localImage": "/img/products/sirup/dreamy Arancia rossa_Blood Orange.jpg"
+  },
+  {
+    "id": "dreamy-banana",
+    "name": "Dreamy Banana",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Banana.jpg",
+    "localImage": "/img/products/sirup/dreamy Banana.jpg"
+  },
+  {
+    "id": "dreamy-beet",
+    "name": "Dreamy Beet",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Barbaietola_Beet.jpg",
+    "localImage": "/img/products/sirup/dreamy Barbaietola_Beet.jpg"
+  },
+  {
+    "id": "dreamy-bergamot",
+    "name": "Dreamy Bergamot",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Bergamotto_Bergamot.jpg",
+    "localImage": "/img/products/sirup/dreamy Bergamotto_Bergamot.jpg"
+  },
+  {
+    "id": "dreamy-blue-curacao",
+    "name": "Dreamy Blue Curacao",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Blue%20Curacao.jpg",
+    "localImage": "/img/products/sirup/dreamy Blue Curacao.jpg"
+  },
+  {
+    "id": "dreamy-carrot",
+    "name": "Dreamy Carrot",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Carota_Carrot.jpg",
+    "localImage": "/img/products/sirup/dreamy Carota_Carrot.jpg"
+  },
+  {
+    "id": "dreamy-kale",
+    "name": "Dreamy Kale",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Cavolo_Kale.jpg",
+    "localImage": "/img/products/sirup/dreamy Cavolo_Kale.jpg"
+  },
+  {
+    "id": "dreamy-cherry",
+    "name": "Dreamy Cherry",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Ciliegia_Cherry.jpg",
+    "localImage": "/img/products/sirup/dreamy Ciliegia_Cherry.jpg"
+  },
+  {
+    "id": "dreamy-coconut",
+    "name": "Dreamy Coconut",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Cocco_Coconut.jpg",
+    "localImage": "/img/products/sirup/dreamy Cocco_Coconut.jpg"
+  },
+  {
+    "id": "dreamy-cranberry",
+    "name": "Dreamy Cranberry",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Cranberry.jpg",
+    "localImage": "/img/products/sirup/dreamy Cranberry.jpg"
+  },
+  {
+    "id": "dreamy-fig",
+    "name": "Dreamy Fig",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Fico_Fig.jpg",
+    "localImage": "/img/products/sirup/dreamy Fico_Fig.jpg"
+  },
+  {
+    "id": "dreamy-elderflower",
+    "name": "Dreamy Elderflower",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Fiori%20di%20sambuco_Elderflower.jpg",
+    "localImage": "/img/products/sirup/dreamy Fiori di sambuco_Elderflower.jpg"
+  },
+  {
+    "id": "dreamy-strawberry",
+    "name": "Dreamy Strawberry",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Fragola_Strawberry.jpg",
+    "localImage": "/img/products/sirup/dreamy Fragola_Strawberry.jpg"
+  },
+  {
+    "id": "dreamy-fruit-passion",
+    "name": "Dreamy Fruit passion",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Fruit%20passion.jpg",
+    "localImage": "/img/products/sirup/dreamy Fruit passion.jpg"
+  },
+  {
+    "id": "dreamy-forest-fruits",
+    "name": "Dreamy Forest fruits",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Frutti%20di%20bosco_Forest%20fruits.jpg",
+    "localImage": "/img/products/sirup/dreamy Frutti di bosco_Forest fruits.jpg"
+  },
+  {
+    "id": "dreamy-granadine",
+    "name": "Dreamy Granadine",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Granatina_Granadine.jpg",
+    "localImage": "/img/products/sirup/dreamy Granatina_Granadine.jpg"
+  },
+  {
+    "id": "dreamy-kiwi",
+    "name": "Dreamy Kiwi",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Kiwi.jpg",
+    "localImage": "/img/products/sirup/dreamy Kiwi.jpg"
+  },
+  {
+    "id": "dreamy-raspberry",
+    "name": "Dreamy Raspberry",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Lampone_Raspberry.jpg",
+    "localImage": "/img/products/sirup/dreamy Lampone_Raspberry.jpg"
+  },
+  {
+    "id": "dreamy-lemonlime",
+    "name": "Dreamy Lemonlime",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Lemonlime.jpg",
+    "localImage": "/img/products/sirup/dreamy Lemonlime.jpg"
+  },
+  {
+    "id": "dreamy-litchi",
+    "name": "Dreamy Litchi",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Litchi.jpg",
+    "localImage": "/img/products/sirup/dreamy Litchi.jpg"
+  },
+  {
+    "id": "dreamy-mandarin",
+    "name": "Dreamy Mandarin",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Mandarino_Mandarin.jpg",
+    "localImage": "/img/products/sirup/dreamy Mandarino_Mandarin.jpg"
+  },
+  {
+    "id": "dreamy-mango",
+    "name": "Dreamy Mango",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Mango.jpg",
+    "localImage": "/img/products/sirup/dreamy Mango.jpg"
+  },
+  {
+    "id": "dreamy-maracuja",
+    "name": "Dreamy Maracuja",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Maracuja.jpg",
+    "localImage": "/img/products/sirup/dreamy Maracuja.jpg"
+  },
+  {
+    "id": "dreamy-green-apple",
+    "name": "Dreamy Green apple",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Mela%20verde_Green%20apple.jpg",
+    "localImage": "/img/products/sirup/dreamy Mela verde_Green apple.jpg"
+  },
+  {
+    "id": "dreamy-green-melon",
+    "name": "Dreamy Green melon",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Melone%20verde_Green%20melon.jpg",
+    "localImage": "/img/products/sirup/dreamy Melone verde_Green melon.jpg"
+  },
+  {
+    "id": "dreamy-melon",
+    "name": "Dreamy Melon",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Melone_Melon.jpg",
+    "localImage": "/img/products/sirup/dreamy Melone_Melon.jpg"
+  },
+  {
+    "id": "dreamy-blueberry",
+    "name": "Dreamy Blueberry",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Mirtillo_Blueberry.jpg",
+    "localImage": "/img/products/sirup/dreamy Mirtillo_Blueberry.jpg"
+  },
+  {
+    "id": "dreamy-mojito",
+    "name": "Dreamy Mojito",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Mojito.jpg",
+    "localImage": "/img/products/sirup/dreamy Mojito.jpg"
+  },
+  {
+    "id": "dreamy-blackberry",
+    "name": "Dreamy Blackberry",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Mora_Blackberry.jpg",
+    "localImage": "/img/products/sirup/dreamy Mora_Blackberry.jpg"
+  },
+  {
+    "id": "dreamy-papaya",
+    "name": "Dreamy Papaya",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Papaya.jpg",
+    "localImage": "/img/products/sirup/dreamy Papaya.jpg"
+  },
+  {
+    "id": "dreamy-pear",
+    "name": "Dreamy Pear",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Pera_Pear.jpg",
+    "localImage": "/img/products/sirup/dreamy Pera_Pear.jpg"
+  },
+  {
+    "id": "dreamy-peach",
+    "name": "Dreamy Peach",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Pesca_Peach.jpg",
+    "localImage": "/img/products/sirup/dreamy Pesca_Peach.jpg"
+  },
+  {
+    "id": "dreamy-pina-colada",
+    "name": "Dreamy Pina colada",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Pina%20colada.jpg",
+    "localImage": "/img/products/sirup/dreamy Pina colada.jpg"
+  },
+  {
+    "id": "dreamy-sweetandsour",
+    "name": "Dreamy Sweet&sour",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Sweet&sour.jpg",
+    "localImage": "/img/products/sirup/dreamy Sweet&sour.jpg"
+  },
+  {
+    "id": "dreamy-tropical",
+    "name": "Dreamy Tropical",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Tropical.jpg",
+    "localImage": "/img/products/sirup/dreamy Tropical.jpg"
+  },
+  {
+    "id": "dreamy-black-grapes",
+    "name": "Dreamy Black grapes",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Uva%20nera_Black%20grapes.jpg",
+    "localImage": "/img/products/sirup/dreamy Uva nera_Black grapes.jpg"
+  },
+  {
+    "id": "dreamy-yuzu",
+    "name": "Dreamy Yuzu",
+    "category": "sirupy",
+    "subcategory": "dreamy",
+    "subcategoryLabel": "Dreamy Pulp Fruit 950 ml",
+    "legacyImage": "https://caffevero.sk/img/sirup/dreamy%20Yuzu.jpg",
+    "localImage": "/img/products/sirup/dreamy Yuzu.jpg"
+  },
+  {
+    "id": "fiorenzato-murano",
+    "name": "Fiorenzato Murano",
+    "category": "kavovary",
+    "subcategory": "fiorenzato",
+    "subcategoryLabel": "Kávovary Fiorenzato",
+    "legacyImage": "https://caffevero.sk/img/kavovar/murano.jpg",
+    "localImage": "/img/products/kavovar/murano.jpg",
+    "externalUrl": "http://www.kavovaryfiorenzato.sk/kavovar_fiorenzato_murano.html"
+  },
+  {
+    "id": "fiorenzato-arena",
+    "name": "Fiorenzato Arena",
+    "category": "kavovary",
+    "subcategory": "fiorenzato",
+    "subcategoryLabel": "Kávovary Fiorenzato",
+    "legacyImage": "https://caffevero.sk/img/kavovar/arena.jpg",
+    "localImage": "/img/products/kavovar/arena.jpg",
+    "externalUrl": "http://www.kavovaryfiorenzato.sk/kavovar_fiorenzato_arena.html"
+  },
+  {
+    "id": "fiorenzato-laguna",
+    "name": "Fiorenzato Laguna",
+    "category": "kavovary",
+    "subcategory": "fiorenzato",
+    "subcategoryLabel": "Kávovary Fiorenzato",
+    "legacyImage": "https://caffevero.sk/img/kavovar/laguna.jpg",
+    "localImage": "/img/products/kavovar/laguna.jpg",
+    "externalUrl": "http://www.kavovaryfiorenzato.sk/kavovar_fiorenzato_laguna.html"
+  },
+  {
+    "id": "fiorenzato-ducale",
+    "name": "Fiorenzato Ducale",
+    "category": "kavovary",
+    "subcategory": "fiorenzato",
+    "subcategoryLabel": "Kávovary Fiorenzato",
+    "legacyImage": "https://caffevero.sk/img/kavovar/ducale.jpg",
+    "localImage": "/img/products/kavovar/ducale.jpg",
+    "externalUrl": "http://www.kavovaryfiorenzato.sk/kavovar_fiorenzato_ducale.html"
+  },
+  {
+    "id": "fiorenzato-leva",
+    "name": "Fiorenzato Leva",
+    "category": "kavovary",
+    "subcategory": "fiorenzato",
+    "subcategoryLabel": "Kávovary Fiorenzato",
+    "legacyImage": "https://caffevero.sk/img/kavovar/leva.jpg",
+    "localImage": "/img/products/kavovar/leva.jpg",
+    "externalUrl": "http://www.kavovaryfiorenzato.sk/kavovar_fiorenzato_leva.html"
+  },
+  {
+    "id": "fiorenzato-venezia",
+    "name": "Fiorenzato Venezia",
+    "category": "kavovary",
+    "subcategory": "fiorenzato",
+    "subcategoryLabel": "Kávovary Fiorenzato",
+    "legacyImage": "https://caffevero.sk/img/kavovar/venezia.jpg",
+    "localImage": "/img/products/kavovar/venezia.jpg",
+    "externalUrl": "http://www.kavovaryfiorenzato.sk/kavovar_fiorenzato_venezia.html"
+  },
+  {
+    "id": "fiorenzato-g16",
+    "name": "Fiorenzato G16",
+    "category": "kavovary",
+    "subcategory": "fiorenzato",
+    "subcategoryLabel": "Kávovary Fiorenzato",
+    "legacyImage": "https://caffevero.sk/img/kavovar/g16.jpg",
+    "localImage": "/img/products/kavovar/g16.jpg",
+    "externalUrl": "http://www.kavovaryfiorenzato.sk/kavovar_fiorenzato_g16.html"
+  },
+  {
+    "id": "fiorenzato-g11",
+    "name": "Fiorenzato G11",
+    "category": "kavovary",
+    "subcategory": "fiorenzato",
+    "subcategoryLabel": "Kávovary Fiorenzato",
+    "legacyImage": "https://caffevero.sk/img/kavovar/g11.jpg",
+    "localImage": "/img/products/kavovar/g11.jpg",
+    "externalUrl": "http://www.kavovaryfiorenzato.sk/kavovar_fiorenzato_g11.html"
+  },
+  {
+    "id": "fiorenzato-bricoletta",
+    "name": "Fiorenzato Bricoletta",
+    "category": "kavovary",
+    "subcategory": "fiorenzato",
+    "subcategoryLabel": "Kávovary Fiorenzato",
+    "legacyImage": "https://caffevero.sk/img/kavovar/bricoletta.jpg",
+    "localImage": "/img/products/kavovar/bricoletta.jpg",
+    "externalUrl": "http://www.kavovaryfiorenzato.sk/kavovar_fiorenzato_bricoletta.html"
+  },
+  {
+    "id": "fiorenzato-colombina",
+    "name": "Fiorenzato Colombina",
+    "category": "kavovary",
+    "subcategory": "fiorenzato",
+    "subcategoryLabel": "Kávovary Fiorenzato",
+    "legacyImage": "https://caffevero.sk/img/kavovar/colombina.jpg",
+    "localImage": "/img/products/kavovar/colombina.jpg",
+    "externalUrl": "http://www.kavovaryfiorenzato.sk/kavovar_fiorenzato_colombina.html"
+  },
+  {
+    "id": "faber-concept-industrial-gold",
+    "name": "Faber Concept Industrial Gold",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/concept_gold.jpg",
+    "localImage": "/img/products/kavovar/concept_gold.jpg"
+  },
+  {
+    "id": "faber-concept-industrial-silver",
+    "name": "Faber Concept Industrial Silver",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/concept_silver.jpg",
+    "localImage": "/img/products/kavovar/concept_silver.jpg"
+  },
+  {
+    "id": "faber-slot-plast",
+    "name": "Faber Slot Plast",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/slotplast1.png",
+    "localImage": "/img/products/kavovar/slotplast1.png",
+    "externalUrl": "faber_slot_plast.html"
+  },
+  {
+    "id": "faber-slot-plast-2",
+    "name": "Faber Slot Plast",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/slotplast2.png",
+    "localImage": "/img/products/kavovar/slotplast2.png",
+    "externalUrl": "faber_slot_plast.html"
+  },
+  {
+    "id": "faber-slot-plast-3",
+    "name": "Faber Slot Plast",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/slotplast3.png",
+    "localImage": "/img/products/kavovar/slotplast3.png",
+    "externalUrl": "faber_slot_plast.html"
+  },
+  {
+    "id": "faber-slot-pro-total-inox",
+    "name": "Faber Slot Pro Total Inox",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/gammaslot_pro.jpg",
+    "localImage": "/img/products/kavovar/gammaslot_pro.jpg"
+  },
+  {
+    "id": "faber-minislot-plast",
+    "name": "Faber MiniSlot Plast",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/minislot1.jpg",
+    "localImage": "/img/products/kavovar/minislot1.jpg",
+    "externalUrl": "faber_minislot.html"
+  },
+  {
+    "id": "faber-minislot-plast-2",
+    "name": "Faber MiniSlot Plast",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/minislot2.jpg",
+    "localImage": "/img/products/kavovar/minislot2.jpg",
+    "externalUrl": "faber_minislot.html"
+  },
+  {
+    "id": "faber-minislot-plast-3",
+    "name": "Faber MiniSlot Plast",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/minislot3.jpg",
+    "localImage": "/img/products/kavovar/minislot3.jpg",
+    "externalUrl": "faber_minislot.html"
+  },
+  {
+    "id": "faber-minislot-diabolik",
+    "name": "Faber MiniSlot Diabolik",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/minislot_diabolik1.jpg",
+    "localImage": "/img/products/kavovar/minislot_diabolik1.jpg",
+    "externalUrl": "faber_minislot.html"
+  },
+  {
+    "id": "faber-minislot-diabolik-2",
+    "name": "Faber MiniSlot Diabolik",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/minislot_diabolik2.jpg",
+    "localImage": "/img/products/kavovar/minislot_diabolik2.jpg",
+    "externalUrl": "faber_minislot.html"
+  },
+  {
+    "id": "faber-minislot-rockn-color",
+    "name": "Faber MiniSlot ROCK’N’ COLOR",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/minislot_rock3.jpg",
+    "localImage": "/img/products/kavovar/minislot_rock3.jpg",
+    "externalUrl": "faber_minislot.html"
+  },
+  {
+    "id": "faber-minislot-rockn-color-2",
+    "name": "Faber MiniSlot ROCK’N’ COLOR",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/minislot_rock1.jpg",
+    "localImage": "/img/products/kavovar/minislot_rock1.jpg",
+    "externalUrl": "faber_minislot.html"
+  },
+  {
+    "id": "faber-minislot-rockn-color-3",
+    "name": "Faber MiniSlot ROCK’N’ COLOR",
+    "category": "kavovary",
+    "subcategory": "faber",
+    "subcategoryLabel": "Kávovary Faber",
+    "legacyImage": "https://caffevero.sk/img/kavovar/minislot_rock2.jpg",
+    "localImage": "/img/products/kavovar/minislot_rock2.jpg",
+    "externalUrl": "faber_minislot.html"
+  }
+]
