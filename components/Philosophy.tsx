@@ -1,7 +1,6 @@
 "use client";
 
 import { useRef } from "react";
-import Image from "next/image";
 import { motion, useScroll, useTransform, useReducedMotion } from "framer-motion";
 import Reveal from "@/components/Reveal";
 
@@ -30,13 +29,17 @@ export default function Philosophy({ philosophy, partners }: PhilosophyProps) {
         <div className="relative order-2 lg:order-1">
           <div className="overflow-hidden bg-carbon lg:sticky lg:top-28 aspect-[4/5]">
             <motion.div style={{ scale, y }} className="relative h-full w-full">
-              <Image
-                src="/img/categories/kavovar.png"
-                alt="Kávovar Caffè Vero — remeselná tradícia a moderná technológia"
-                fill
-                sizes="(min-width: 1024px) 45vw, 90vw"
-                className="object-cover"
-              />
+              <video
+                className="absolute inset-0 h-full w-full object-cover"
+                autoPlay={!reduce}
+                muted
+                loop
+                playsInline
+                preload="auto"
+                poster="/img/categories/kavovar.png"
+              >
+                <source src="/video/mainsecondvideo.mp4" type="video/mp4" />
+              </video>
             </motion.div>
           </div>
         </div>

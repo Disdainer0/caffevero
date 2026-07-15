@@ -71,8 +71,8 @@ export default function Hero({ title, accent, subtitle, ctaLabel, ctaHref }: Her
           poster="/video/hero-poster.jpg"
           onCanPlay={(e) => e.currentTarget.setAttribute("data-ready", "true")}
         >
-          <source src={`${videoBase}.webm`} type="video/webm" />
           <source src={`${videoBase}.mp4`} type="video/mp4" />
+          <source src={`${videoBase}.webm`} type="video/webm" />
         </video>
       )}
 
